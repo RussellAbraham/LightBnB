@@ -13,3 +13,6 @@ CREATE DATABASE lightbnb;
 ```
 
 - Make sure all of the tables exist in the database by typing `\dt` at the `psql` prompt.
+
+- Run the sql file in `/seeds/01_seeds.sql`
+
