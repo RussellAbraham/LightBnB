@@ -1,6 +1,14 @@
 # LightBnB
 Lighthouse BnB is a revolutionary new app that will allow homeowners to rent out their homes to people on vacation. Users can view property information, book reservations, view their reservations, and write reviews. It is constructed using Node.js and PostgreSQL.
 
+## Dependencies
+- Express
+- Node 5.10.x or above
+- Postgres
+- Bcrypt
+- Body parser
+- Cookie session
+
 ## Features
 
 **Browse Listings** - Users can browse through property listngs that have been submitted by other users.
