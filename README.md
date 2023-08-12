@@ -23,9 +23,12 @@ Lighthouse BnB is a revolutionary new app that will allow homeowners to rent out
 ### Create Listing
 ![Create Listing](docs/create-listing.png)
 
+The form on the frontend will insert a new entry into to properties table
+
 ### Login Page
 ![Login](docs/attempt-login.png)
 
+All example users in the database used have a password of `password` to make it easy to test.
 
 ## To Start:
 
